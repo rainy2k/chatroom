@@ -1,3 +1,4 @@
+```shell
 echo "# chatroom" >> README.md
 git init
 git add README.md
@@ -11,4 +12,4 @@ git push -u origin main
 git remote add origin git@github.com:rainy2k/chatroom.git
 git branch -M main
 git push -u origin main
-
+```
